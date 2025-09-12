@@ -7,7 +7,4 @@ I am currently building in public on [Twitch](https://www.twitch.tv/ryandotfurre
 *   🌍  I'm based in New York, USA
 *   🖥️  See my portfolio at [ryanfurrer.com](http://ryanfurrer.com)
 *   ✉️  You can contact me at [ryandotfurrer@gmail.com](mailto:ryandotfurrer@gmail.com)
-*   🚀  I'm currently working at [Ziva Tech](https://ziva-tech.com/)
-*   🧠  I'm currently learning how to work with user authentication, APIs, and databases
-*   🌱  I'm honing my skills in TypeScript, React, and functional engineering
-*   🤝  I'm open to collaborating on anything and everything
+*   🚀  I'm currently working at [Pragma](https://pragma.gg/) on [FirstLook](https://firstlook.gg]
